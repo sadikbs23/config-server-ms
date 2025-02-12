@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to BS23 Bank loans related production APIs "
+  message: "Welcome to BS23 Bank loans related prod APIs "
   contactDetails:
     name: "Arif - Product Owner"
     email: "arif@bs23.com"
