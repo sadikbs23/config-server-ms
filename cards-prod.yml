@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to BS23 Bank cards related production APIs "
+  message: "Welcome to BS23 Bank cards related prod APIs "
   contactDetails:
     name: "Sabuj - Product Owner"
     email: "sabuj@bs23.com"
