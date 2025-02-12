@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to BS23 Bank accounts related prod APIs "
+  message: "Welcome to BS23 Bank accounts related production APIs "
   contactDetails:
     name: "Sadik Hassan - Product Owner"
     email: "{cipher}6e7c9f4d4dc8b54ddbcd63401ef538856d0e11856fef07847437bd2a9e2a1e77"
