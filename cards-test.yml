@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to BS23 Bank cards related Test APIs "
+  contactDetails:
+    name: "Tawfiqur Rahman - QA Lead"
+    email: "tawfiq@bs23.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267
